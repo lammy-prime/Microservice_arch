@@ -1,1 +1,5 @@
 .env
+secret.yaml
+auth-deploy.yaml
+configmap.yaml
+service.yaml
